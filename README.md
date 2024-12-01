@@ -1,1 +1,2 @@
-# BDSE36_Interim_Report
+# BDSE36_期中報告
+## 2023 Steam 遊戲市場分析
